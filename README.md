@@ -2,9 +2,9 @@
 
 Преподаватели:
 
-- Кузнецов Антон Михайлович [@ankuzik](@ankuzik)
-- Алексей Трилис [@trilis](@trilis)
-- Алексей Зубаков [@aleksZubakov](@aleksZubakov)
+- Кузнецов Антон Михайлович [@ankuzik](https://github.com/ankuzik)
+- Алексей Трилис [@trilis](https://github.com/trilis)
+- Алексей Зубаков [@aleksZubakov](https://github.com/aleksZubakov)
 
 
 Инструкция по сдаче домашних заданий находится 
